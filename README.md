@@ -7,7 +7,7 @@
 ---
 
 ## 📌 Overview
-This portfolio showcases my **cloud computing projects** built during the **Cloud Computing program at Durham College**.  
+This portfolio showcases my **cloud computing projects** built during the **Cloud Computing program**.  
 It covers **AWS, GCP, and Azure** with a focus on **networking, security, high availability, auto-scaling, and redundancy**.
 
 ---
@@ -63,5 +63,5 @@ It covers **AWS, GCP, and Azure** with a focus on **networking, security, high a
 
 ## 👤 Author
 **Kowshal Sugunarajah**  
-🎓 Postgraduate Student – Cloud Computing @ Durham College  
+🎓 Postgraduate Student – Cloud Computing  
 💼 Ex-Amazon QA | ☁️ Cloud Enthusiast | 🗄️ Database & Automation Tester
